@@ -1,4 +1,4 @@
-# URL Shortener & QR Code Generator
+# URL Shortener & QR Code Generators
 
 <div align="center">
   <img src="public/RLogo.png" alt="URL Shortener Logo" width="120" />
